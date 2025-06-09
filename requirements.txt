@@ -1,0 +1,12 @@
+pytesseract
+pdf2image
+openai
+fastapi
+uvicorn
+python-multipart
+pydantic
+pandas
+tqdm
+pymupdf
+pdfplumber
+pdfminer.six

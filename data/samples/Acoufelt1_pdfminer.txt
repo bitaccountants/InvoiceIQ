@@ -1,0 +1,181 @@
+AUD Tax Invoice
+
+Invoice No
+
+Invoice Date
+
+Project Name
+
+Customer PO No
+
+Delivery Date
+
+Payment Due 
+Date
+
+Acoufelt 
+Reference
+
+24299
+
+30 Apr 2025
+
+SOUTH WEST 
+SLOPES CR
+
+CT007159-0004
+
+01 May 2025
+
+30 May 2025
+
+00003484
+
+Customer: 
+Carpet Court Flooring Centres
+Accounts 
+Locked Bag 50
+MOUNT WAVERLEY BC, VIC 3149
+
+Phone: 02 6382 3279
+Mobile: 0409 846 517
+royce@tbcarpetcourt.com.au
+
+Ship To:
+Terry Bros. Carpet Court (Young)
+Royce -
+254 Boorowa Street
+Young, NSW 2594
+Australia 
+
+DELIVERY BEFORE 5.5.25
+
+Code
+
+Product Description
+
+Product Details
+
+LABA08PLIS01
+
+LaidBack Carpet Tile 
+Interstellar - Comet IS01 - 
+1000 x 500mm, 10m2 per 
+Carton
+
+Size: 
+Total m2: 
+Carton Qty: 11
+
+ZZHAND
+
+Handling & Processing Fee 
+(Additional costs to be 
+quoted if no forklift on site)
+
+Qty
+
+110
+
+Unit Price
+
+Discount
+
+Subtotal
+
+$24.00
+
+$2,640.00
+
+1
+
+$69.00
+
+$69.00
+
+Payment Terms
+
+30 days from end of month
+
+Product Cost:
+
+$2,709.00
+
+Delivery Details:
+
+Discount: 
+
+$0.00
+
+$0.00
+
+Sub Total:
+
+$2,709.00
+
+Tax (10%):
+
+$270.90
+
+Tax Invoice Total (AUD):
+
+$2,979.90
+
+Total Paid (AUD):
+
+$0.00
+
+Outstanding (AUD):
+
+$2,979.90
+
+Bank Account Details for Currency Payments
+
+Bank Details (AUD): 
+
+Account Name: Acoufelt Pty Ltd
+
+BSB Number: 082-001
+
+Bank Details (USD):
+
+Account Name: Acoufelt Pty Ltd
+
+BIC/SWIFT: NATAAU3303M
+
+Bank Details (GBP):
+
+Account Name: Acoufelt Pty Ltd
+
+BIC/SWIFT: NATAAU3303M
+
+Account Number: 
+134 339 384
+
+Account Number: 
+ACOUFUSD01
+
+Account Number: 
+ACOUFGBP01
+
+Acoufelt Pty. Ltd. (AU) 
+
+ABN: 95 157 835 679 
+
+Phone: 1800 626 462
+
+Acoufelt
+
+Acouflor
+
+Email: customercare.au@acoufelt.com Website: www.acoufelt.com 
+
+Email: customercare.au@acouflor.com  Website: www.acouflor.com 
+
+ 
+ 
+ 
+ 
+ 
+ 
+

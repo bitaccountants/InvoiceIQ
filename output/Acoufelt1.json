@@ -1,0 +1,16 @@
+{
+    "Invoice Number": "24299",
+    "Invoice Date": "30 Apr 2025",
+    "Vendor Name": "Acoufelt",
+    "Line Items": [
+        {
+            "Description": "LaidBack Carpet Tile Interstellar - Comet IS01 - 1000 x 500mm, 10m2 per Carton",
+            "Quantity": "110",
+            "Unit Price": "$24.00",
+            "Total": "$2640.00"
+        }
+    ],
+    "Subtotal": "$2640.00",
+    "Tax": "$270.90",
+    "Total Amount": "$2979.90"
+}
