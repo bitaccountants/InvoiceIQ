@@ -2,7 +2,7 @@
 
 Turn any invoice PDF into clean, structured data using OCR and LLMs — all **offline and free** with [Ollama](https://ollama.com).
 
-![InvoiceIQ Demo](https://img.shields.io/badge/AI-powered-invoice%20parser-blueviolet?style=flat&logo=python&logoColor=white)
+![InvoiceIQ Demo](http://googleusercontent.com/image_generation_content/0)
 
 ---
 
