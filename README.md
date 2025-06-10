@@ -2,7 +2,9 @@
 
 Turn any invoice PDF into clean, structured data using OCR and LLMs — all **offline and free** with [Ollama](https://ollama.com).
 
-![InvoiceIQ Demo](https://img.shields.io/badge/AI-powered-invoice%20parser-blueviolet?style=flat&logo=python&logoColor=white)
+
+
+
 
 ---
 
@@ -42,27 +44,20 @@ pip install -r requirements.txt
 
 📄 2. Setup .env file in root
 env
-Copy
-Edit
 TESSERACT_PATH=C:\Program Files\Tesseract-OCR\tesseract.exe
 POPPLER_PATH=C:\Program Files\poppler\bin
+
 🧠 3. Run OCR on your PDF
 Drop your invoice in data/samples/ as invoice_sample.pdf and run:
 
-bash
-Copy
-Edit
 python src/ocr.py
+
 🤖 4. Run the LLM pipeline
-bash
-Copy
-Edit
 python src/pipeline.py
+
 📊 5. Convert JSON to CSV
-bash
-Copy
-Edit
 python src/convert.py
+
 🧠 Prompt Template
 Used with LLM:
 
@@ -81,10 +76,9 @@ Return the result in JSON format enclosed between:
 ### START ###
 {...}
 ### END ###
+
+
 📁 Project Structure
-bash
-Copy
-Edit
 InvoiceIQ/
 ├── data/           # Raw PDF + extracted OCR text
 ├── output/         # JSON + CSV output
@@ -93,10 +87,9 @@ InvoiceIQ/
 ├── .env            # API keys & paths
 ├── README.md
 └── requirements.txt
+
+
 ✨ Example Output
-json
-Copy
-Edit
 {
   "Invoice Number": "INV-2023-001",
   "Invoice Date": "2023-10-01",
@@ -109,7 +102,7 @@ Edit
   "Total Amount": 19.25
 }
 👨‍💻 Author
-Built with ❤️ by [Your Name]
+Built with ❤️ by Amit Jadhav
 🔗 GitHub: @amitjadhav055
 🐦 Twitter: @Amitjadhav_01
 
