@@ -10,3 +10,6 @@ tqdm
 pymupdf
 pdfplumber
 pdfminer.six
+gradio
+python-dotenv
+ollama

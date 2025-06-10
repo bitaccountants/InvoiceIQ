@@ -1,0 +1,46 @@
+{
+    "Invoice Number": "90003229",
+    "Invoice Date": "02/05/25",
+    "Vendor Name": "Altro APAC Pty Ltd",
+    "Line Items": [
+        {
+            "description": "D25421",
+            "quantity": 1.0,
+            "unitPrice": 91.0,
+            "total": 91.0
+        },
+        {
+            "description": "AUHAND",
+            "quantity": 1.0,
+            "unitPrice": 4.8,
+            "total": 4.8
+        },
+        {
+            "description": "AUFREIGHT",
+            "quantity": 1.0,
+            "unitPrice": 35.0,
+            "total": 35.0
+        },
+        {
+            "description": "2.5MM RELIANCE MIDNIGHT",
+            "quantity": 3.0,
+            "unitPrice": 95.0,
+            "total": 285.0
+        },
+        {
+            "description": "Handling",
+            "quantity": 1.0,
+            "unitPrice": 1.0,
+            "total": 1.0
+        },
+        {
+            "description": "Freight",
+            "quantity": 1.0,
+            "unitPrice": 9.5,
+            "total": 9.5
+        }
+    ],
+    "Subtotal": 436.8,
+    "Tax": 56.68,
+    "Total Amount": 623.48
+}
