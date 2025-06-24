@@ -32,7 +32,7 @@ def extract_json_between_markers(text):
 
 def call_llm(prompt_text):
     response = ollama.chat(
-        model='llama3',
+        model='qwen2.5vl',
         messages=[
             {"role": "system", "content": "You are an invoice parser."},
             {"role": "user", "content": prompt_text}

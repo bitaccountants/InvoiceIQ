@@ -1,7 +1,0 @@
-Invoice Number,Invoice Date,Vendor Name,Subtotal,Tax,Total Amount
-24335,30 Apr 2025,Carpet Court Flooring Centres,$849.00,$84.90,$933.90
-
-Line Items:
-Description,Quantity,Unit Price,Total
-"LaidBack Carpet Tile Interstellar - Saturn IS05 - 1000 x 500mm, 10m2 per Carton",30,$26.00,$780.00
-Handling & Processing Fee (Additional costs to be quoted if no forklift on site),1,$69.00,$69.00

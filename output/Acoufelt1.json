@@ -1,16 +1,17 @@
 {
-    "Invoice Number": "24299",
-    "Invoice Date": "30 Apr 2025",
-    "Vendor Name": "Acoufelt",
+    "Invoice Number": "INV-001",
+    "Invoice Date": "03 June 2024",
+    "Supplier Name": "MR ADVISORY LTD",
+    "Customer Name": "Luisa Mingioni",
     "Line Items": [
         {
-            "Description": "LaidBack Carpet Tile Interstellar - Comet IS01 - 1000 x 500mm, 10m2 per Carton",
-            "Quantity": "110",
-            "Unit Price": "$24.00",
-            "Total": "$2640.00"
+            "Description": "Consulting and coaching",
+            "Quantity": "1.0",
+            "Unit Price": "399 EUR",
+            "Total": "399.00 EUR"
         }
     ],
-    "Subtotal": "$2640.00",
-    "Tax": "$270.90",
-    "Total Amount": "$2979.90"
+    "Subtotal": "399.00 EUR",
+    "Tax": "",
+    "Total Amount": "399.00 EUR"
 }

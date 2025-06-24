@@ -1,7 +1,7 @@
 import os
 import json
 from pathlib import Path
-from src.llm_processor import process_invoice_with_llm
+from llm_processor import process_invoice_with_llm
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SAMPLES_DIR = BASE_DIR / "data" / "samples"
@@ -56,7 +56,7 @@ def run_pipeline(filename):
             ocr_text = f.read()
         print("✅ OCR loaded")
 
-        from src.llm_processor import process_invoice_with_llm
+        from llm_processor import process_invoice_with_llm
         result = process_invoice_with_llm(ocr_text, prompt_path)
         print("✅ LLM processed invoice")
 
@@ -70,7 +70,6 @@ def run_pipeline(filename):
         print("⚠️ Pipeline failed:")
         traceback.print_exc()
 
-'''
+
 if __name__ == "__main__":
     run_pipeline("Acoufelt1")  # don't include .pdf or .txt
-'''
